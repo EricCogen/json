@@ -1,0 +1,47 @@
+[
+ {
+   "location": "ABB-001-0050",
+   "addr1": "206 North Fourth Street",
+   "city": "Abbotsford",
+   "zip": 54405,
+   "statename": "Wisconsin",
+   "statecode": "WI",
+   "country": "USA"
+ },
+ {
+   "location": "AGV-001-1084",
+   "addr1": "1001 W Main ",
+   "city": "Toulon",
+   "zip": 61483,
+   "statename": "Illinois",
+   "statecode": "IL",
+   "country": "USA"
+ },
+ {
+   "location": "AAN-004-0001",
+   "addr1": "193 US Route 2",
+   "city": "Grand Isle",
+   "zip": 5458,
+   "statename": "Vermont",
+   "statecode": "VT",
+   "country": "USA"
+ },
+ {
+   "location": "FIR-001-1491",
+   "addr1": "5700 100th St. SW Ste 350",
+   "city": "Lakewood",
+   "zip": 98499,
+   "statename": "Washington",
+   "statecode": "WA",
+   "country": "USA"
+ },
+ {
+   "location": "AGV-001-1789",
+   "addr1": "22069 US Hwy 34",
+   "city": "Princeton",
+   "zip": 61356,
+   "statename": "Illinois",
+   "statecode": "IL",
+   "country": "USA"
+ }
+]
